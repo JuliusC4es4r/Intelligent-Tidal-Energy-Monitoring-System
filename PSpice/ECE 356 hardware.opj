@@ -1,0 +1,107 @@
+(ExpressProject "ECE 356 hardware"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2022 S008-[10/02/22]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "C:\Cadence\PSpiceTI\tools\capture\library\pspice\analog.olb"
+        (DisplayName
+           "C:\Cadence\PSpiceTI\tools\capture\library\pspice\analog.olb")
+        (Type "Schematic Library"))
+      (File "C:\Cadence\PSpiceTI\tools\capture\library\pspice\breakout.olb"
+        (DisplayName
+           "C:\Cadence\PSpiceTI\tools\capture\library\pspice\breakout.olb")
+        (Type "Schematic Library"))
+      (File "C:\Cadence\PSpiceTI\tools\capture\library\pspice\source.olb"
+        (DisplayName
+           "C:\Cadence\PSpiceTI\tools\capture\library\pspice\source.olb")
+        (Type "Schematic Library"))
+      (File "C:\Cadence\PSpiceTI\tools\capture\library\pspice\special.olb"
+        (DisplayName
+           "C:\Cadence\PSpiceTI\tools\capture\library\pspice\special.olb")
+        (Type "Schematic Library")))
+    (NoModify)
+    (File "ece 356 hardware.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "TRUE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "PSpice Resources"
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User))
+    (Folder "Simulation Profiles"
+      (ActiveProfile ".\ece 356 hardware-pspicefiles\schematic1\bias.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\ece 356 hardware-pspicefiles\schematic1\bias.sim"
+        (DisplayName "SCHEMATIC1-bias")
+        (Type "PSpice Profile"))))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (TPS63070RNM_TRANS
+      (FullPartName "TPS63070RNMR.Normal")
+      (LibraryName "C:\CDS_SPB_HOME\CDSSETUP\PSPTILIBDIR\TPS63070RNM_TRANS.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "..\..\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "..\..\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName "..\..\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (VSTIM
+      (FullPartName "VSTIM.Normal")
+      (LibraryName "..\..\LIBRARY\PSPICE\SOURCSTM.OLB")
+      (DeviceIndex "0"))
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName "..\..\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "LIBRARY\PSPICE")
+  (MPSSessionName "migoy")
+  (Folder "Logs")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Intelligent Tidal Energy Monitoring System\PSpice\ece 356 hardware.dsn")
+      (Path "Design Resources"
+         "C:\Intelligent Tidal Energy Monitoring System\PSpice\ece 356 hardware.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "C:\Intelligent Tidal Energy Monitoring System\PSpice\ece 356 hardware.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 747"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 765")
+        (Scroll "-173 239")
+        (Zoom "133")
+        (Occurrence "/"))
+      (Path
+         "C:\INTELLIGENT TIDAL ENERGY MONITORING SYSTEM\PSPICE\ECE 356 HARDWARE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
