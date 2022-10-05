@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=NetIC?_3 Pin=IC?-3
+Removed Pin From Net: NetName=NetIC?_3 Pin=IC?-4
+Removed Pin From Net: NetName=NetJ?_2 Pin=U?-1
+Removed Pin From Net: NetName=NetJ?_3 Pin=U?-2
+Removed Pin From Net: NetName=GND Pin=U?-3
+Removed Pin From Net: NetName=GP7 Pin=U?-10
+Removed Pin From Net: NetName=GP10 Pin=U?-14
+Removed Pin From Net: NetName=GP11 Pin=U?-15
+Removed Member From Class: ClassName=Designator Member=IC?
+Added Component: Designator=U?(New footprint 1)
+Added Pin To Net: NetName=NetIC?_3 Pin=IC?-3
+Added Pin To Net: NetName=NetIC?_3 Pin=IC?-4
+Added Pin To Net: NetName=NetJ?_2 Pin=U?-1
+Added Pin To Net: NetName=5V_ON Pin=U?-2
+Added Pin To Net: NetName=NetJ?_3 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=CTRL Pin=U?-5
+Added Pin To Net: NetName=C\H\G\ Pin=U?-6
+Added Pin To Net: NetName=GP5 Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GP6 Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GP7 Pin=U?-10
+Added Pin To Net: NetName=GP8 Pin=U?-11
+Added Pin To Net: NetName=GP9 Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GP10 Pin=U?-14
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=GP11 Pin=U?-15
+Added Pin To Net: NetName=GP12 Pin=U?-16
+Added Pin To Net: NetName=GP13 Pin=U?-17
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=GP14 Pin=U?-19
+Added Pin To Net: NetName=GP15 Pin=U?-20
+Added Pin To Net: NetName=GP16 Pin=U?-21
+Added Pin To Net: NetName=GP17 Pin=U?-22
+Added Pin To Net: NetName=GND Pin=U?-23
+Added Pin To Net: NetName=GP18 Pin=U?-24
+Added Pin To Net: NetName=GP19 Pin=U?-25
+Added Pin To Net: NetName=GP20 Pin=U?-26
+Added Pin To Net: NetName=GP21 Pin=U?-27
+Added Pin To Net: NetName=GND Pin=U?-28
+Added Pin To Net: NetName=GP22 Pin=U?-29
+Added Pin To Net: NetName=RESET Pin=U?-30
+Added Pin To Net: NetName=NetIC?_3 Pin=U?-31
+Added Pin To Net: NetName=GND Pin=U?-33
+Added Pin To Net: NetName=I_SENSE Pin=U?-34
+Added Pin To Net: NetName=AVREF Pin=U?-35
+Added Pin To Net: NetName=+3V3_PICO Pin=U?-36
+Added Pin To Net: NetName=HARD_RESET Pin=U?-37
+Added Pin To Net: NetName=GND Pin=U?-38
+Added Pin To Net: NetName=+5V Pin=U?-39
+Added Pin To Net: NetName=SWCLK Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-42
+Added Pin To Net: NetName=SWDIO Pin=U?-43
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetIC?_3" already exists
+Add Net: Net with name "NetJ?_3" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component BT? 54
+Added Member To Class: ClassName=Designator Member=Component C? 10 µF
+Added Member To Class: ClassName=Designator Member=Component C? 0.1 µF
+Added Member To Class: ClassName=Designator Member=Component C? 0.1 µF
+Added Member To Class: ClassName=Designator Member=Component C? 10 µF
+Added Member To Class: ClassName=Designator Member=Component C? 0.1 µF
+Added Member To Class: ClassName=Designator Member=Component C? 10 µF
+Added Member To Class: ClassName=Designator Member=Component C? 0.1 µF
+Added Member To Class: ClassName=Designator Member=Component C? 22 µF
+Added Member To Class: ClassName=Designator Member=Component C? 22 µF
+Added Member To Class: ClassName=Designator Member=Component C? 0.1 µF
+Added Member To Class: ClassName=Designator Member=Component C? 22 µF
+Added Member To Class: ClassName=Designator Member=Component D? RBR2MM40CTFTR
+Added Member To Class: ClassName=Designator Member=Component D? Green
+Added Member To Class: ClassName=Designator Member=Component D? Green
+Added Member To Class: ClassName=Designator Member=Component L? 1.5µH
+Added Member To Class: ClassName=Master Member=Component MH? Exposed Mounting Hole M3
+Added Member To Class: ClassName=Master Member=Component MH? Exposed Mounting Hole M3
+Added Member To Class: ClassName=Master Member=Component MH? Exposed Mounting Hole M3
+Added Member To Class: ClassName=Designator Member=Component Q? BSS314PE
+Added Member To Class: ClassName=Designator Member=Component Q? BSS126
+Added Member To Class: ClassName=Designator Member=Component Q? BSS126
+Added Member To Class: ClassName=Designator Member=Component R? 0 Ohms
+Added Member To Class: ClassName=Designator Member=Component R? 1 kOhms
+Added Member To Class: ClassName=Designator Member=Component R? 0 Ohms
+Added Member To Class: ClassName=Designator Member=Component R? 10 kOhms
+Added Member To Class: ClassName=Designator Member=Component R? 47k
+Added Member To Class: ClassName=Designator Member=Component R? 3.3 kOhms
+Added Member To Class: ClassName=Designator Member=Component R? 300 kOhms
+Added Member To Class: ClassName=Designator Member=Component R? 10 kOhms
+Added Member To Class: ClassName=Designator Member=Component R? 10 kOhms
+Added Member To Class: ClassName=Designator Member=Component R? 1 kOhms
+Added Member To Class: ClassName=Designator Member=Component S? Rocker Switch
+Added Member To Class: ClassName=Designator Member=Component S? Rocker Switch
+Added Member To Class: ClassName=Designator Member=Component TP? 1.5mm Test Point
+Added Member To Class: ClassName=Designator Member=Component TP? S2751-46R
+Added Member To Class: ClassName=Designator Member=Component TP? S2751-46R
+Added Member To Class: ClassName=Designator Member=Component TP? 1.5mm Test Point
+Added Member To Class: ClassName=Designator Member=Component TP? 1.5mm Test Point
+Added Member To Class: ClassName=Designator Member=Component TP? S2751-46R
+Added Member To Class: ClassName=Designator Member=Component TP? 1.5mm Test Point
+Added Member To Class: ClassName=Designator Member=Component U? BQ25050DQCR
+Added Member To Class: ClassName=Designator Member=Component U? TPS63070RNMR
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Added Room: Name=Designator
