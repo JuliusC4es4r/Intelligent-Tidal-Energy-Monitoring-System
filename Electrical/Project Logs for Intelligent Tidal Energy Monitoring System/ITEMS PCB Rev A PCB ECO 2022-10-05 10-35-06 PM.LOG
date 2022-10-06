@@ -1,0 +1,211 @@
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=Designator Member=R?
+Change Component Designator: OldDesignator=BT? NewDesignator=BT300
+Change Component Designator: OldDesignator=C? NewDesignator=C200
+Change Component Designator: OldDesignator=C? NewDesignator=C201
+Change Component Designator: OldDesignator=C? NewDesignator=C300
+Change Component Designator: OldDesignator=C? NewDesignator=C301
+Change Component Designator: OldDesignator=C? NewDesignator=C302
+Change Component Designator: OldDesignator=C? NewDesignator=C303
+Change Component Designator: OldDesignator=C? NewDesignator=C304
+Change Component Designator: OldDesignator=C? NewDesignator=C305
+Change Component Designator: OldDesignator=C? NewDesignator=C306
+Change Component Designator: OldDesignator=C? NewDesignator=C307
+Change Component Designator: OldDesignator=C? NewDesignator=C308
+Change Component Designator: OldDesignator=C? NewDesignator=C309
+Change Component Designator: OldDesignator=C? NewDesignator=C310
+Change Component Designator: OldDesignator=C? NewDesignator=C311
+Change Component Designator: OldDesignator=C? NewDesignator=C400
+Change Component Designator: OldDesignator=C? NewDesignator=C401
+Change Component Designator: OldDesignator=D? NewDesignator=D300
+Change Component Designator: OldDesignator=D? NewDesignator=D301
+Change Component Designator: OldDesignator=D? NewDesignator=D302
+Change Component Designator: OldDesignator=IC? NewDesignator=IC400
+Change Component Designator: OldDesignator=IC? NewDesignator=IC401
+Change Component Designator: OldDesignator=J? NewDesignator=J200
+Change Component Designator: OldDesignator=J? NewDesignator=J201
+Change Component Designator: OldDesignator=J? NewDesignator=J202
+Change Component Designator: OldDesignator=J? NewDesignator=J300
+Change Component Designator: OldDesignator=J? NewDesignator=J400
+Change Component Designator: OldDesignator=J? NewDesignator=J401
+Change Component Designator: OldDesignator=L? NewDesignator=L300
+Change Component Designator: OldDesignator=MH? NewDesignator=MH100
+Change Component Designator: OldDesignator=MH? NewDesignator=MH101
+Change Component Designator: OldDesignator=MH? NewDesignator=MH102
+Change Component Designator: OldDesignator=MH? NewDesignator=MH103
+Change Component Designator: OldDesignator=Q? NewDesignator=Q300
+Change Component Designator: OldDesignator=Q? NewDesignator=Q301
+Change Component Designator: OldDesignator=Q? NewDesignator=Q302
+Change Component Designator: OldDesignator=R? NewDesignator=R200
+Change Component Designator: OldDesignator=R? NewDesignator=R201
+Change Component Designator: OldDesignator=R? NewDesignator=R300
+Change Component Designator: OldDesignator=R? NewDesignator=R301
+Change Component Designator: OldDesignator=R? NewDesignator=R302
+Change Component Designator: OldDesignator=R? NewDesignator=R303
+Change Component Designator: OldDesignator=R? NewDesignator=R304
+Change Component Designator: OldDesignator=R? NewDesignator=R305
+Change Component Designator: OldDesignator=R? NewDesignator=R306
+Change Component Designator: OldDesignator=R? NewDesignator=R307
+Change Component Designator: OldDesignator=R? NewDesignator=R308
+Change Component Designator: OldDesignator=R? NewDesignator=R309
+Change Component Designator: OldDesignator=R? NewDesignator=R310
+Change Component Designator: OldDesignator=R? NewDesignator=R401
+Change Component Designator: OldDesignator=R? NewDesignator=R402
+Change Component Designator: OldDesignator=R? NewDesignator=R403
+Change Component Designator: OldDesignator=S? NewDesignator=S200
+Change Component Designator: OldDesignator=S? NewDesignator=S201
+Change Component Designator: OldDesignator=S? NewDesignator=S300
+Change Component Designator: OldDesignator=S? NewDesignator=S301
+Change Component Designator: OldDesignator=TP? NewDesignator=TP200
+Change Component Designator: OldDesignator=TP? NewDesignator=TP300
+Change Component Designator: OldDesignator=TP? NewDesignator=TP301
+Change Component Designator: OldDesignator=TP? NewDesignator=TP302
+Change Component Designator: OldDesignator=TP? NewDesignator=TP303
+Change Component Designator: OldDesignator=TP? NewDesignator=TP304
+Change Component Designator: OldDesignator=TP? NewDesignator=TP305
+Change Component Designator: OldDesignator=TP? NewDesignator=TP306
+Change Component Designator: OldDesignator=U? NewDesignator=U200
+Change Component Designator: OldDesignator=U? NewDesignator=U300
+Change Component Designator: OldDesignator=U? NewDesignator=U301
+Added Component: Designator=R400(RES 0603_1608)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RT_1-to-0.01_RoHS_L_11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/yageo/RT0603FRE0710KL/YAG2321CT-ND/5252435"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "2022-03-07 3:35:56 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RT0603FRE0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "5671"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "YAG2321CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±50ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 kOhms"; VariantName = "[No Variations]"
+Added Component: Designator=TP400(1mm Test Point-Footprint-1)
+Added Component: Designator=TP401(1mm Test Point-Footprint-1)
+Added Component: Designator=TP402(1mm Test Point-Footprint-1)
+Added Component: Designator=TP403(1mm Test Point-Footprint-1)
+Added Component: Designator=TP404(1mm Test Point-Footprint-1)
+Added Component: Designator=TP405(1mm Test Point-Footprint-1)
+Added Component: Designator=TP406(1mm Test Point-Footprint-1)
+Added Pin To Net: NetName=V_BATT Pin=R400-2
+Added Pin To Net: NetName=NetIC?_3 Pin=TP402-1
+Change Net Name : Old Net Name=NetBT?_1 New Net Name=NetBT300_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC302_2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD302_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD302_2
+Change Net Name : Old Net Name=NetIC?_3 New Net Name=NetIC400_3
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ300_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ300_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR304_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR308_2
+Added Pin To Net: NetName=NetC301_2 Pin=C301-2
+Added Pin To Net: NetName=NetC301_2 Pin=Q300-2
+Added Pin To Net: NetName=NetC301_2 Pin=R300-1
+Added Pin To Net: NetName=NetC301_2 Pin=R302-2
+Added Pin To Net: NetName=NetC301_2 Pin=U300-10
+Added Net: Name=NetC301_2
+Added Pin To Net: NetName=NetC306_2 Pin=C306-2
+Added Pin To Net: NetName=NetC306_2 Pin=U301-3
+Added Net: Name=NetC306_2
+Added Pin To Net: NetName=NetC400_2 Pin=C400-2
+Added Pin To Net: NetName=NetC400_2 Pin=IC400-1
+Added Pin To Net: NetName=NetC400_2 Pin=R400-1
+Added Pin To Net: NetName=NetC400_2 Pin=R402-2
+Added Pin To Net: NetName=NetC400_2 Pin=TP400-1
+Added Net: Name=NetC400_2
+Added Pin To Net: NetName=NetC401_2 Pin=C401-2
+Added Pin To Net: NetName=NetC401_2 Pin=IC401-1
+Added Pin To Net: NetName=NetC401_2 Pin=R401-1
+Added Pin To Net: NetName=NetC401_2 Pin=R403-2
+Added Pin To Net: NetName=NetC401_2 Pin=TP401-1
+Added Net: Name=NetC401_2
+Added Pin To Net: NetName=NetD300_2 Pin=D300-2
+Added Pin To Net: NetName=NetD300_2 Pin=R301-1
+Added Net: Name=NetD300_2
+Added Pin To Net: NetName=NetD301_1 Pin=D301-1
+Added Pin To Net: NetName=NetD301_1 Pin=R309-1
+Added Net: Name=NetD301_1
+Added Pin To Net: NetName=NetD301_2 Pin=D301-2
+Added Pin To Net: NetName=NetD301_2 Pin=Q301-3
+Added Net: Name=NetD301_2
+Added Pin To Net: NetName=NetIC401_3 Pin=IC401-3
+Added Pin To Net: NetName=NetIC401_3 Pin=IC401-4
+Added Pin To Net: NetName=NetIC401_3 Pin=TP403-1
+Added Pin To Net: NetName=NetIC401_3 Pin=U200-32
+Added Net: Name=NetIC401_3
+Added Pin To Net: NetName=NetJ400_3 Pin=J400-3
+Added Pin To Net: NetName=NetJ400_3 Pin=TP404-1
+Added Pin To Net: NetName=NetJ400_3 Pin=U200-4
+Added Net: Name=NetJ400_3
+Added Pin To Net: NetName=NetJ401_2 Pin=J401-2
+Added Pin To Net: NetName=NetJ401_2 Pin=TP405-1
+Added Pin To Net: NetName=NetJ401_2 Pin=U200-1
+Added Net: Name=NetJ401_2
+Added Pin To Net: NetName=NetJ401_3 Pin=J401-3
+Added Pin To Net: NetName=NetJ401_3 Pin=TP406-1
+Added Pin To Net: NetName=NetJ401_3 Pin=U200-2
+Added Net: Name=NetJ401_3
+Added Pin To Net: NetName=NetR303_1 Pin=R303-1
+Added Pin To Net: NetName=NetR303_1 Pin=U301-1
+Added Pin To Net: NetName=NetR303_1 Pin=U301-14
+Added Net: Name=NetR303_1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component C300 0.1 µF
+Added Member To Class: ClassName=Designator Member=Component C302 10 µF
+Added Member To Class: ClassName=Designator Member=Component C303 10 µF
+Added Member To Class: ClassName=Designator Member=Component C304 10 µF
+Added Member To Class: ClassName=Designator Member=Component C305 22 µF
+Added Member To Class: ClassName=Designator Member=Component C306 0.1 µF
+Added Member To Class: ClassName=Designator Member=Component C307 10 µF
+Added Member To Class: ClassName=Designator Member=Component C308 22 µF
+Added Member To Class: ClassName=Designator Member=Component C309 22 µF
+Added Member To Class: ClassName=Designator Member=Component C310 0.1 µF
+Added Member To Class: ClassName=Designator Member=Component C311 0.1 µF
+Added Member To Class: ClassName=Designator Member=Component D301 Green
+Added Member To Class: ClassName=Designator Member=Component D302 Green
+Added Member To Class: ClassName=Master Member=Component MH100 Exposed Mounting Hole M3
+Added Member To Class: ClassName=Master Member=Component MH101 Exposed Mounting Hole M3
+Added Member To Class: ClassName=Master Member=Component MH102 Exposed Mounting Hole M3
+Added Member To Class: ClassName=Designator Member=Component Q300 BSS314PE
+Added Member To Class: ClassName=Designator Member=Component Q302 BSS126
+Added Member To Class: ClassName=Designator Member=Component R300 0 Ohms
+Added Member To Class: ClassName=Designator Member=Component R301 0 Ohms
+Added Member To Class: ClassName=Designator Member=Component R302 10 kOhms
+Added Member To Class: ClassName=Designator Member=Component R303 10 kOhms
+Added Member To Class: ClassName=Designator Member=Component R304 300 kOhms
+Added Member To Class: ClassName=Designator Member=Component R305 10 kOhms
+Added Member To Class: ClassName=Designator Member=Component R306 51 kOhms
+Added Member To Class: ClassName=Designator Member=Component R307 3.3 kOhms
+Added Member To Class: ClassName=Designator Member=Component R308 47k
+Added Member To Class: ClassName=Designator Member=Component R309 1 kOhms
+Added Member To Class: ClassName=Designator Member=Component R310 1 kOhms
+Added Member To Class: ClassName=Designator Member=Component S300 Rocker Switch
+Added Member To Class: ClassName=Designator Member=Component TP300 S2751-46R
+Added Member To Class: ClassName=Designator Member=Component TP301 S2751-46R
+Added Member To Class: ClassName=Designator Member=Component TP303 1.5mm Test Point
+Added Member To Class: ClassName=Designator Member=Component TP304 1.5mm Test Point
+Added Member To Class: ClassName=Designator Member=Component TP305 1.5mm Test Point
+Added Member To Class: ClassName=Designator Member=Component TP306 1.5mm Test Point
+Added Member To Class: ClassName=Designator Member=Component U300 BQ25050DQCR
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Master
