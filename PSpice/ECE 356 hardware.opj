@@ -81,12 +81,12 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "C:\Intelligent Tidal Energy Monitoring System\PSpice\ece 356 hardware.dsn")
+         "c:\intelligent tidal energy monitoring system\pspice\ece 356 hardware.dsn")
       (Path "Design Resources"
-         "C:\Intelligent Tidal Energy Monitoring System\PSpice\ece 356 hardware.dsn"
+         "c:\intelligent tidal energy monitoring system\pspice\ece 356 hardware.dsn"
          "SCHEMATIC1")
       (Select "Design Resources"
-         "C:\Intelligent Tidal Energy Monitoring System\PSpice\ece 356 hardware.dsn"
+         "c:\intelligent tidal energy monitoring system\pspice\ece 356 hardware.dsn"
          "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
@@ -97,9 +97,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 765")
-        (Scroll "-173 239")
-        (Zoom "133")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1268 24 765")
+        (Scroll "-130 0")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
          "C:\INTELLIGENT TIDAL ENERGY MONITORING SYSTEM\PSPICE\ECE 356 HARDWARE.DSN")

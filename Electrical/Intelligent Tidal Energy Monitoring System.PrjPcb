@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=ITEMS PCBA Rev A
 
 [Preferences]
 PrefsVaultGUID=
@@ -240,7 +241,12 @@ UniqueID=FBD40C71-9B25-4860-874E-CC309714B5D7
 Description=ITEMS PCBA Rev A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=5
+Variation1=Designator=U200|UniqueId=\XXVIJFOF\ESLSDWPX|Kind=0|AlternatePart= 
+Variation2=Designator=J200|UniqueId=\XXVIJFOF\ZZPBHHOX|Kind=1|AlternatePart= 
+Variation3=Designator=J201|UniqueId=\XXVIJFOF\VMIYSUVE|Kind=1|AlternatePart= 
+Variation4=Designator=J202|UniqueId=\XXVIJFOF\HNHVRXJO|Kind=1|AlternatePart= 
+Variation5=Designator=R?|UniqueId=\RPCUCHUM\YDPRXQOU|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
