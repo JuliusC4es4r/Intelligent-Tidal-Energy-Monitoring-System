@@ -1,0 +1,13 @@
+Added Component: Designator=TP307(FP-S2751-46R-MFG)
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "S2751, EZ BoardWare"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBATT Pin=R400-2
+Added Pin To Net: NetName=VBATT Pin=TP307-1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component TP307 S2751-46R
