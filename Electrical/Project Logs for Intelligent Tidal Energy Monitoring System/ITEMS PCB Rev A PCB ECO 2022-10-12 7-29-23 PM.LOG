@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GP16 Pin=J201-7
+Removed Pin From Net: NetName=GP17 Pin=J201-8
+Added Pin To Net: NetName=GP17 Pin=J201-7
+Added Pin To Net: NetName=GP16 Pin=J201-8

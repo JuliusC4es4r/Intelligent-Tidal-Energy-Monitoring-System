@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=J401 Old DesignItemId=CMP-00056-1 New DesignItemId=CMP-00056-2
+Change Component Footprint: Designator=J401 Old Footprint=GY-GPS6MV2 -Footprint-1 New Footprint=GY-GPS6MV2 -Footprint-1
+Change Managed Component Library Link : Designator=J401 Old VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a New VaultGUID=e73b7219-2e48-40df-8e58-9f282843690a Old ItemGUID=6df113a8-a266-43b9-b32c-071a686fffd0 New ItemGUID=6df113a8-a266-43b9-b32c-071a686fffd0 Old RevisionGUID=4ecdcec8-ba38-4ff2-b57b-c0a3546997f9 New RevisionGUID=bb71a51f-8763-40fd-a785-e48740b69405

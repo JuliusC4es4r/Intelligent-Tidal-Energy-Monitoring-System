@@ -249,6 +249,10 @@ Variation4=Designator=J202|UniqueId=\XXVIJFOF\HNHVRXJO|Kind=1|AlternatePart=
 Variation5=Designator=R?|UniqueId=\RPCUCHUM\YDPRXQOU|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Design Rule Check - ITEMS PCB Rev A.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1229,10 +1233,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name Only
+ComponentLibraryIdentifier0=Americas- Environmental Engineering Club- University of Victoria
+ComponentDesignItemID0=CMP-00056-1
+ComponentSymbolReference0=GY-GPS6MV2 -Symbol-1
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1246,6 +1256,19 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=GY-GPS6MV2 -Footprint-1
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
