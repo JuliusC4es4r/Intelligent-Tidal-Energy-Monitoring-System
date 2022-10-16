@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for Intelligent Tidal Energy Monitoring System
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -250,7 +250,131 @@ Variation5=Designator=R?|UniqueId=\RPCUCHUM\YDPRXQOU|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Assembly Files\Test Points\Assembly Testpoint Report for ITEMS PCB Rev A.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Design Rule Check - ITEMS PCB Rev A.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\NC Drill\ITEMS PCB Rev A-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\NC Drill\ITEMS PCB Rev A-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\NC Drill\ITEMS PCB Rev A.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GM21
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\NC Drill\ITEMS PCB Rev A.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Intelligent Tidal Energy Monitoring System\Bare PCB Files\Gerber\ITEMS PCB Rev A.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -262,6 +386,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for Intelligent Tidal Energy Monitoring System
 
 [OutputGroup1]
 Name=Netlist Outputs
