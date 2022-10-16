@@ -1,0 +1,469 @@
+*************************************************************
+FileName = ITEMS PCB Rev A.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer 1
+      File : ITEMS PCB Rev A.GBL
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D71
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ITEMS PCB Rev A.GPB
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D71
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ITEMS PCB Rev A.GPT
+
+    Adding Layer      : Top Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D71
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ITEMS PCB Rev A.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ITEMS PCB Rev A.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ITEMS PCB Rev A.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ITEMS PCB Rev A.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ITEMS PCB Rev A.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ITEMS PCB Rev A.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D13
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ITEMS PCB Rev A.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Ground
+      File : ITEMS PCB Rev A.G2
+
+    Adding Layer      : Ground
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D71
+    D80
+    D84
+    D86
+    D87
+    D88
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ITEMS PCB Rev A.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D13
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Board
+      File : ITEMS PCB Rev A.GM3
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : ITEMS PCB Rev A.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : ITEMS PCB Rev A.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : ITEMS PCB Rev A.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : ITEMS PCB Rev A.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Inner 1
+      File : ITEMS PCB Rev A.G1
+
+    Adding Layer      : Inner 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D80
+    D82
+    D83
+    D85
+    D86
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Top Layer 1
+      File : ITEMS PCB Rev A.GTL
+
+    Adding Layer      : Top Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D71
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : ITEMS PCB Rev A.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D13
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : ITEMS PCB Rev A.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D13
+    D15
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : ITEMS PCB Rev A.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : ITEMS PCB Rev A.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D13
+*************************************************************
+
